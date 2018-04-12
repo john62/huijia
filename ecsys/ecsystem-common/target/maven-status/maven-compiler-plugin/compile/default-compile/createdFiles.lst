@@ -1,0 +1,8 @@
+com\huijia\common\pojo\SearchItem.class
+com\huijia\common\pojo\EasyUIDataGridResult.class
+com\huijia\common\utils\JsonUtils.class
+com\huijia\common\utils\CookieUtils.class
+com\huijia\common\utils\IDUtils.class
+com\huijia\common\pojo\EasyUITreeNode.class
+com\huijia\common\pojo\TaotaoResult.class
+com\huijia\common\pojo\SearchResult.class

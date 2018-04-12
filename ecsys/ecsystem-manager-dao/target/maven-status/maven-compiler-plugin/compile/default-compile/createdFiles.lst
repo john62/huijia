@@ -1,0 +1,11 @@
+com\huijia\manager\dao\TbItemMapper.class
+com\huijia\manager\dao\TbItemParamItemMapper.class
+com\huijia\manager\dao\TbUserMapper.class
+com\huijia\manager\dao\TbOrderShippingMapper.class
+com\huijia\manager\dao\TbContentCategoryMapper.class
+com\huijia\manager\dao\TbItemCatMapper.class
+com\huijia\manager\dao\TbItemParamMapper.class
+com\huijia\manager\dao\TbOrderItemMapper.class
+com\huijia\manager\dao\TbOrderMapper.class
+com\huijia\manager\dao\TbContentMapper.class
+com\huijia\manager\dao\TbItemDescMapper.class
