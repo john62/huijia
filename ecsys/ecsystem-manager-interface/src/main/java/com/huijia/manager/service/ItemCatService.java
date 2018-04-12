@@ -11,6 +11,6 @@ import java.util.List;
 
 public interface ItemCatService {
 
-	TbItem getItemById(long itemId);
+//	TbItem getItemById(long itemId);
    List<EasyUITreeNode> getItemCatList(long parentId);
 }

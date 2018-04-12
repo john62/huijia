@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-dao/ecsystem-manager-dao.iml" filepath="$PROJECT_DIR$/ecsystem-manager-dao/ecsystem-manager-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-interface/ecsystem-manager-interface.iml" filepath="$PROJECT_DIR$/ecsystem-manager-interface/ecsystem-manager-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" filepath="$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" filepath="$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" />
     </modules>
   </component>
 </project>

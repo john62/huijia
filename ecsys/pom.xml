@@ -13,6 +13,8 @@
     <module>ecsystem-manager-dao</module>
     <module>ecsystem-manager-interface</module>
     <module>ecsystem-common</module>
+    <module>ecsystem-manager-service</module>
+
   </modules>
   <packaging>pom</packaging>
   <name>ecsystem</name>
