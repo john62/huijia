@@ -1,6 +1,6 @@
+com\huijia\manager\jedis\JedisClientCluster.class
+com\huijia\manager\service\impl\ItemServiceImpl$1.class
 com\huijia\manager\service\impl\ItemCatServiceImpl.class
 com\huijia\manager\jedis\JedisClient.class
 com\huijia\manager\jedis\JedisClientPool.class
 com\huijia\manager\service\impl\ItemServiceImpl.class
-com\huijia\manager\jedis\JedisClientCluster.class
-com\huijia\manager\service\impl\ItemServiceImpl$1.class

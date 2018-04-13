@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ecsystem.iml" filepath="$PROJECT_DIR$/ecsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-common/ecsystem-common.iml" filepath="$PROJECT_DIR$/ecsystem-common/ecsystem-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-content-interface/ecsystem-content-interface.iml" filepath="$PROJECT_DIR$/ecsystem-content-interface/ecsystem-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-content-service/ecsystem-content-service.iml" filepath="$PROJECT_DIR$/ecsystem-content-service/ecsystem-content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-dao/ecsystem-manager-dao.iml" filepath="$PROJECT_DIR$/ecsystem-manager-dao/ecsystem-manager-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-interface/ecsystem-manager-interface.iml" filepath="$PROJECT_DIR$/ecsystem-manager-interface/ecsystem-manager-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" filepath="$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" filepath="$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" filepath="$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" />
     </modules>
   </component>
 </project>

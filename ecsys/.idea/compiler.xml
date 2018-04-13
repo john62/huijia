@@ -7,19 +7,25 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ecsystem-common" />
+        <module name="ecsystem-content-interface" />
+        <module name="ecsystem-content-service" />
         <module name="ecsystem-manager-dao" />
         <module name="ecsystem-manager-interface" />
         <module name="ecsystem-manager-pojo" />
         <module name="ecsystem-manager-service" />
+        <module name="ecsystem-manager-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ecsystem" target="1.8" />
       <module name="ecsystem-common" target="1.8" />
+      <module name="ecsystem-content-interface" target="1.8" />
+      <module name="ecsystem-content-service" target="1.8" />
       <module name="ecsystem-manager-dao" target="1.8" />
       <module name="ecsystem-manager-interface" target="1.8" />
       <module name="ecsystem-manager-pojo" target="1.8" />
       <module name="ecsystem-manager-service" target="1.8" />
+      <module name="ecsystem-manager-web" target="1.8" />
       <module name="ecsystemcommon" target="1.8" />
       <module name="sdfasdf" target="1.8" />
     </bytecodeTargetLevel>

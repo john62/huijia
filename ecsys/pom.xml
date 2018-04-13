@@ -14,6 +14,9 @@
     <module>ecsystem-manager-interface</module>
     <module>ecsystem-common</module>
     <module>ecsystem-manager-service</module>
+    <module>ecsystem-manager-web</module>
+    <module>ecsystem-content-interface</module>
+      <module>ecsystem-content-service</module>
 
   </modules>
   <packaging>pom</packaging>
