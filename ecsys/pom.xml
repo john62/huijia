@@ -17,6 +17,8 @@
     <module>ecsystem-manager-web</module>
     <module>ecsystem-content-interface</module>
       <module>ecsystem-content-service</module>
+    <module>ecsystem-search-interface</module>
+    <module>ecsystem-search-service</module>
 
   </modules>
   <packaging>pom</packaging>

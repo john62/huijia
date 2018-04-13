@@ -1,0 +1,6 @@
+com\huijia\manager\web\controller\ItemController.class
+com\huijia\manager\web\controller\ItemCatController.class
+com\huijia\manager\web\controller\PageController.class
+com\huijia\manager\web\controller\ContentCategoryController.class
+com\huijia\manager\web\controller\IndexManagerController.class
+com\huijia\manager\web\controller\ContentController.class

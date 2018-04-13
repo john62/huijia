@@ -1,0 +1,6 @@
+com\huijia\search\dao\SearchDao.class
+com\huijia\search\listener\ItemAddMessageListener.class
+com\huijia\search\service\impl\SearchServiceImpl.class
+com\huijia\search\service\impl\SearchItemServiceImpl.class
+com\huijia\search\mapper\SearchItemMapper.class
+com\huijia\search\listener\MyMessageListener.class

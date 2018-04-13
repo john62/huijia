@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19d2e1d7-304a-4dbe-8663-21029a674cb2" name="Default" comment="" />
+    <list default="true" id="19d2e1d7-304a-4dbe-8663-21029a674cb2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/utils/FastDFSClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-interface/ecsystem-search-interface.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-interface/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-interface/src/main/java/com/huijia/search/service/SearchItemService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-interface/src/main/java/com/huijia/search/service/SearchService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/dao/SearchDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/listener/ItemAddMessageListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/listener/MyMessageListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/mapper/SearchItemMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/mapper/SearchItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/service/impl/SearchItemServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/service/impl/SearchServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/mybatis/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/properties/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/properties/resource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-activemq.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-solr.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_huijia_ecsystem_search_interface_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__fastdfs_client_fastdfs_client_1_25.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-common/target/ecsystem-common.jar" afterPath="$PROJECT_DIR$/ecsystem-common/target/ecsystem-common.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-dao/target/ecsystem-manager-dao.jar" afterPath="$PROJECT_DIR$/ecsystem-manager-dao/target/ecsystem-manager-dao.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-interface/target/ecsystem-manager-interface.jar" afterPath="$PROJECT_DIR$/ecsystem-manager-interface/target/ecsystem-manager-interface.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-pojo/target/ecsystem-manager-pojo.jar" afterPath="$PROJECT_DIR$/ecsystem-manager-pojo/target/ecsystem-manager-pojo.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service.war" afterPath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-manager-dao-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-manager-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-manager-interface-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-manager-pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/ecsystem-manager-service/target/ecsystem-manager-service/WEB-INF/lib/ecsystem-manager-pojo-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ecsystem_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ecsystem_manager_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ecsystem-common/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-common/target/surefire-reports/com.huijia.AppTest.txt" afterPath="$PROJECT_DIR$/ecsystem-common/target/surefire-reports/com.huijia.AppTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-content-service/ecsystem-content-service.iml" afterPath="$PROJECT_DIR$/ecsystem-content-service/ecsystem-content-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentServiceImpl.java" afterPath="$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ecsystem-manager-dao/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ecsystem-manager-interface/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ecsystem-manager-pojo/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-pojo/target/surefire-reports/TEST-com.huijia.AppTest.xml" afterPath="$PROJECT_DIR$/ecsystem-manager-pojo/target/surefire-reports/TEST-com.huijia.AppTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-pojo/target/surefire-reports/com.huijia.AppTest.txt" afterPath="$PROJECT_DIR$/ecsystem-manager-pojo/target/surefire-reports/com.huijia.AppTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ecsystem-manager-service/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" afterPath="$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/pom.xml" afterPath="$PROJECT_DIR$/ecsystem-manager-web/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentCategoryController.java" afterPath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentCategoryController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentController.java" afterPath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/IndexManagerController.java" afterPath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/IndexManagerController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemCatController.java" afterPath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemCatController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemController.java" afterPath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/PictureController.java" afterPath="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/PictureController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ecsystemcommon/target/" />
@@ -14,6 +73,8 @@
     <ignored path="$PROJECT_DIR$/ecsystem-manager-web/target/" />
     <ignored path="$PROJECT_DIR$/ecsystem-content-interface/target/" />
     <ignored path="$PROJECT_DIR$/ecsystem-content-service/target/" />
+    <ignored path="$PROJECT_DIR$/ecsystem-search-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ecsystem-search-service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,65 +97,47 @@
       <file leaf-file-name="JedisClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/jedis/JedisClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JedisClientCluster.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/jedis/JedisClientCluster.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="52" column="48" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContentService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-interface/src/main/java/com/huijia/content/service/ContentService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="49" />
+            <state relative-caret-position="69">
+              <caret line="108" column="48" lean-forward="false" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContentCategoryService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-interface/src/main/java/com/huijia/content/service/ContentCategoryService.java">
+      <file leaf-file-name="ContentServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="750">
+              <caret line="66" column="42" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/resources/properties/db.properties">
+      <file leaf-file-name="applicationContext-activemq.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-activemq.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="32" column="55" lean-forward="false" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resource.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/resources/properties/resource.properties">
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/properties/db.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -104,9 +147,9 @@
         </entry>
       </file>
       <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/resources/spring/applicationContext-dao.xml">
+        <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-dao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-414">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -114,20 +157,42 @@
         </entry>
       </file>
       <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/resources/spring/applicationContext-service.xml">
+        <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            <state relative-caret-position="331">
+              <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext-redis.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/resources/spring/applicationContext-redis.xml">
+      <file leaf-file-name="applicationContext-solr.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-solr.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="63" lean-forward="false" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+            <state relative-caret-position="322">
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentCategoryServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentCategoryServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PictureController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/PictureController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-493">
+              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -142,6 +207,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fastdfs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -150,23 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/pojo/EasyUIDataGridResult.java" />
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/pojo/EasyUITreeNode.java" />
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/pojo/SearchItem.java" />
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/pojo/SearchResult.java" />
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/pojo/TaotaoResult.java" />
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/utils/CookieUtils.java" />
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/utils/IDUtils.java" />
-        <option value="$PROJECT_DIR$/ecsystemcommon/src/main/com/huijia/common/utils/JsonUtils.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-pojo/src/main/java/com/huijia/manager/pojo/TbItemParamExample.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbUserMapper.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbContentCategoryMapper.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbContentMapper.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbItemCatMapper.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbItemDescMapper.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbItemMapper.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbItemParamItemMapper.java" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbItemParamMapper.java" />
         <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbOrderItemMapper.java" />
         <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbOrderMapper.java" />
         <option value="$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbOrderShippingMapper.java" />
@@ -188,8 +244,6 @@
         <option value="$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/spring/applicationContext-redis.xml" />
         <option value="$PROJECT_DIR$/ecsystem-manager-service/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-web/pom.xml" />
-        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentCategoryController.java" />
         <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/ecsystem-content-interface/pom.xml" />
         <option value="$PROJECT_DIR$/ecsystem-content-interface/src/main/java/com/huijia/content/service/ContentCategoryService.java" />
@@ -200,6 +254,26 @@
         <option value="$PROJECT_DIR$/ecsystem-content-service/src/main/resources/spring/applicationContext-redis.xml" />
         <option value="$PROJECT_DIR$/ecsystem-content-service/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/ecsystem-content-service/src/main/resources/spring/applicationContext-trans.xml" />
+        <option value="$PROJECT_DIR$/ecsystem-search-interface/src/main/java/com/huijia/search/service/SearchItemService.java" />
+        <option value="$PROJECT_DIR$/ecsystem-search-interface/src/main/java/com/huijia/search/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/ecsystem-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/dao/SearchDao.java" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/mapper/SearchItemMapper.java" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/listener/ItemAddMessageListener.java" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/service/impl/SearchItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/service/impl/SearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-activemq.xml" />
+        <option value="$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentCategoryController.java" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentController.java" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/IndexManagerController.java" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/utils/FastDFSClient.java" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/PictureController.java" />
+        <option value="$PROJECT_DIR$/ecsystem-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -219,6 +293,30 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ecsystem-manager-web Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ecsystem-manager-web Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -249,11 +347,12 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-23" />
-    <option name="y" value="259" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -291,39 +390,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecsystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecsys" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecsystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecsys" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecsystem-manager-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,15 +404,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ecsystem-content-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ecsystem-search-service" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-content-service\src\main\java\com\huijia\content\jedis" />
-      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-content-service\src\main\resources" />
-      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-content-service\src\main\java\com\huijia\content\service\impl" />
-      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-content-interface\src\main\java\com\huijia\content\service" />
-      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-manager-web\src\main\resources" />
+      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-search-service\src\main\resources" />
+      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-search-service\src\main\java\com\huijia\search\service\impl" />
+      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-search-service\src\main\java\com\huijia\search\mapper" />
+      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-search-service\src\main\java\com\huijia\search\listener" />
+      <recent name="E:\New\Newtaotao\huijia\ecsys\ecsystem-search-service\src\main\java\com\huijia\search\dao" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -845,19 +916,21 @@
       <workItem from="1523510949481" duration="1736000" />
       <workItem from="1523524546856" duration="9189000" />
       <workItem from="1523597094508" duration="34000" />
+      <workItem from="1523598234916" duration="43000" />
+      <workItem from="1523598635505" duration="6534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21986000" />
+    <option name="totallyTimeSpent" value="28563000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-23" y="259" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32589287" sideWeight="0.5191898" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096481875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32513967" sideWeight="0.30383795" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096481875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -867,15 +940,17 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32513967" sideWeight="0.47867805" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32589287" sideWeight="0.69882727" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32513967" sideWeight="0.69616205" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -883,7 +958,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32589287" sideWeight="0.48081023" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -903,173 +977,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ecsystem-common/src/main/java/com/huijia/common/utils/CookieUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="29" column="61" lean-forward="false" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdfasdf/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/java/com/huijia/manager/jedis/JedisClientCluster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-322">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/java/com/huijia/manager/jedis/JedisClientPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-common/src/main/java/com/huijia/common/pojo/EasyUITreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-dao/src/main/java/com/huijia/manager/dao/TbItemCatMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-common/src/main/java/com/huijia/common/utils/IDUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/java/com/huijia/manager/service/impl/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-interface/src/main/java/com/huijia/manager/service/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-interface/src/main/java/com/huijia/manager/service/ItemCatService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/mybatis/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/properties/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/properties/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/java/com/huijia/manager/service/impl/ItemCatServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/spring/applicationContext-redis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/spring/applicationContext-trans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/java/com/huijia/manager/jedis/JedisClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/spring/applicationContext-activemq.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1078,48 +985,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller.java" />
-    <entry file="file://$PROJECT_DIR$/ecsystem-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="n#dependencies#0;n#dependencyManagement#0;n#project#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-common/src/main/java/com/huijia/common/pojo/EasyUIDataGridResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentCategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/resources/resource/client.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1163,13 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1228,19 +1090,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/jedis/JedisClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/jedis/JedisClientCluster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="52" column="48" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="48" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#305#306#0" expanded="false" />
+            <element signature="e#347#348#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#476#477#0" expanded="false" />
+            <element signature="e#514#515#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+            <element signature="e#663#664#0" expanded="false" />
+            <element signature="e#698#699#0" expanded="false" />
+            <element signature="e#742#743#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+            <element signature="e#850#851#0" expanded="false" />
+            <element signature="e#900#901#0" expanded="false" />
+            <element signature="e#960#961#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1064#1065#0" expanded="false" />
+            <element signature="e#1107#1108#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1248,7 +1122,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,14 +1132,285 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-common/src/main/java/com/huijia/common/pojo/EasyUIDataGridResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-interface/src/main/java/com/huijia/search/service/SearchItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-interface/src/main/java/com/huijia/search/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/dao/SearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/mapper/SearchItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/listener/ItemAddMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/mapper/SearchItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1473650707000" expanded="true" signature="291:535" ph="SELECT a.id,... tb_item" />
+            <marker date="1473650707000" expanded="true" signature="644:917" ph="SELECT a.id,... tb_item" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/service/impl/SearchItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/java/com/huijia/search/service/impl/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#dependencies#0;n#dependencyManagement#0;n#project#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/properties/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/IndexManagerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ContentCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/utils/FastDFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="56" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/src/main/java/com/huijia/manager/web/controller/PictureController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ecsystem-manager-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="49" />
+        <state relative-caret-position="69">
+          <caret line="108" column="48" lean-forward="false" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/jedis/JedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-content-service/src/main/java/com/huijia/content/service/impl/ContentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="66" column="42" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-solr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/spring/applicationContext-activemq.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="32" column="55" lean-forward="false" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecsystem-search-service/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1322,7 +1469,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ecsystem-content-service</last-edited>
+          <last-edited>ecsystem-search-service</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

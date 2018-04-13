@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.taotao.common.pojo.EasyUITreeNode;
-import com.taotao.service.ItemCatService;
+import com.huijia.common.pojo.EasyUITreeNode;
+import com.huijia.manager.service.ItemCatService;
 
 /**
  * 商品分类管理Controller

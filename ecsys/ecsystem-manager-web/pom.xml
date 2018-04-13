@@ -105,10 +105,15 @@
             <artifactId>zkclient</artifactId>
         </dependency>
         <!-- 添加FastDFS客户端的引用 -->
+        <!--<dependency>-->
+            <!--<groupId>fastdfs_client</groupId>-->
+            <!--<artifactId>fastdfs_client</artifactId>-->
+            <!--<version>1.25</version>-->
+        <!--</dependency>-->
         <dependency>
-            <groupId>fastdfs_client</groupId>
-            <artifactId>fastdfs_client</artifactId>
-            <version>1.25</version>
+            <groupId>com.github.tobato</groupId>
+            <artifactId>fastdfs-client</artifactId>
+            <version>1.26.1-RELEASE</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -122,6 +127,11 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpcore</artifactId>
+            <version>4.4.8</version>
         </dependency>
     </dependencies>
     <build>

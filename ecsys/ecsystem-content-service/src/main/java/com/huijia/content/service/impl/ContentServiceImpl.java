@@ -7,15 +7,14 @@ import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
-
-import com.taotao.common.pojo.TaotaoResult;
-import com.taotao.common.utils.JsonUtils;
-import com.taotao.content.service.ContentService;
-import com.taotao.jedis.JedisClient;
-import com.taotao.mapper.TbContentMapper;
-import com.taotao.pojo.TbContent;
-import com.taotao.pojo.TbContentExample;
-import com.taotao.pojo.TbContentExample.Criteria;
+import com.huijia.common.pojo.TaotaoResult;
+import com.huijia.common.utils.JsonUtils;
+import com.huijia.content.service.ContentService;
+import com.huijia.content.jedis.JedisClient;
+import com.huijia.manager.dao.TbContentMapper;
+import com.huijia.manager.pojo.TbContent;
+import com.huijia.manager.pojo.TbContentExample;
+import com.huijia.manager.pojo.TbContentExample.Criteria;
 
 @Service
 public class ContentServiceImpl implements ContentService {

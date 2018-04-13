@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.huijia.common.pojo.EasyUITreeNode;
 import com.huijia.common.pojo.TaotaoResult;
-import com.taotao.content.service.ContentCategoryService;
+import com.huijia.content.service.ContentCategoryService;
 
 /**
  * 内容分类管理Controller

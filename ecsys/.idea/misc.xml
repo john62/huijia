@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/ecsystem-content-service" />
     <file type="web" url="file://$PROJECT_DIR$/ecsystem-manager-service" />
     <file type="web" url="file://$PROJECT_DIR$/ecsystem-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ecsystem-search-service" />
     <file type="web" url="file://$PROJECT_DIR$/sdfasdf" />
   </component>
   <component name="MavenProjectsManager">

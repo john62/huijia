@@ -5,9 +5,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.taotao.common.pojo.TaotaoResult;
-import com.taotao.content.service.ContentService;
-import com.taotao.pojo.TbContent;
+import com.huijia.common.pojo.TaotaoResult;
+import com.huijia.content.service.ContentService;
+import com.huijia.manager.pojo.TbContent;
 
 /**
  * 内容管理Controller

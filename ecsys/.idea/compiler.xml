@@ -14,6 +14,8 @@
         <module name="ecsystem-manager-pojo" />
         <module name="ecsystem-manager-service" />
         <module name="ecsystem-manager-web" />
+        <module name="ecsystem-search-interface" />
+        <module name="ecsystem-search-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +28,8 @@
       <module name="ecsystem-manager-pojo" target="1.8" />
       <module name="ecsystem-manager-service" target="1.8" />
       <module name="ecsystem-manager-web" target="1.8" />
+      <module name="ecsystem-search-interface" target="1.8" />
+      <module name="ecsystem-search-service" target="1.8" />
       <module name="ecsystemcommon" target="1.8" />
       <module name="sdfasdf" target="1.8" />
     </bytecodeTargetLevel>

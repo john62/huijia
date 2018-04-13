@@ -5,8 +5,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.taotao.common.pojo.TaotaoResult;
-import com.taotao.search.service.SearchItemService;
+import com.huijia.common.pojo.TaotaoResult;
+import com.huijia.search.service.SearchItemService;
 
 /**
  * 索引库维护Controller

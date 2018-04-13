@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ecsystem-search-service:war">
+    <output-path>$PROJECT_DIR$/ecsystem-search-service/target</output-path>
+    <root id="archive" name="ecsystem-search-service.war">
+      <element id="artifact" artifact-name="ecsystem-search-service:war exploded" />
+    </root>
+  </artifact>
+</component>

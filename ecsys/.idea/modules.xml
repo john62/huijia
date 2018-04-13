@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" filepath="$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" filepath="$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" filepath="$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-search-interface/ecsystem-search-interface.iml" filepath="$PROJECT_DIR$/ecsystem-search-interface/ecsystem-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-search-service/ecsystem-search-service.iml" filepath="$PROJECT_DIR$/ecsystem-search-service/ecsystem-search-service.iml" />
     </modules>
   </component>
 </project>
