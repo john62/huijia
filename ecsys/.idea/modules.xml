@@ -3,16 +3,24 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ecsystem.iml" filepath="$PROJECT_DIR$/ecsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-cart-web/ecsystem-cart-web.iml" filepath="$PROJECT_DIR$/ecsystem-cart-web/ecsystem-cart-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-common/ecsystem-common.iml" filepath="$PROJECT_DIR$/ecsystem-common/ecsystem-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-content-interface/ecsystem-content-interface.iml" filepath="$PROJECT_DIR$/ecsystem-content-interface/ecsystem-content-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-content-service/ecsystem-content-service.iml" filepath="$PROJECT_DIR$/ecsystem-content-service/ecsystem-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-item-web/ecsystem-item-web.iml" filepath="$PROJECT_DIR$/ecsystem-item-web/ecsystem-item-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-dao/ecsystem-manager-dao.iml" filepath="$PROJECT_DIR$/ecsystem-manager-dao/ecsystem-manager-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-interface/ecsystem-manager-interface.iml" filepath="$PROJECT_DIR$/ecsystem-manager-interface/ecsystem-manager-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" filepath="$PROJECT_DIR$/ecsystem-manager-pojo/ecsystem-manager-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" filepath="$PROJECT_DIR$/ecsystem-manager-service/ecsystem-manager-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" filepath="$PROJECT_DIR$/ecsystem-manager-web/ecsystem-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-order-interface/ecsystem-order-interface.iml" filepath="$PROJECT_DIR$/ecsystem-order-interface/ecsystem-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-order-service/ecsystem-order-service.iml" filepath="$PROJECT_DIR$/ecsystem-order-service/ecsystem-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-order-web/ecsystem-order-web.iml" filepath="$PROJECT_DIR$/ecsystem-order-web/ecsystem-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-portal-web/ecsystem-portal-web.iml" filepath="$PROJECT_DIR$/ecsystem-portal-web/ecsystem-portal-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-search-interface/ecsystem-search-interface.iml" filepath="$PROJECT_DIR$/ecsystem-search-interface/ecsystem-search-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-search-service/ecsystem-search-service.iml" filepath="$PROJECT_DIR$/ecsystem-search-service/ecsystem-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-sso-interface/ecsystem-sso-interface.iml" filepath="$PROJECT_DIR$/ecsystem-sso-interface/ecsystem-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-sso-service/ecsystem-sso-service.iml" filepath="$PROJECT_DIR$/ecsystem-sso-service/ecsystem-sso-service.iml" />
     </modules>
   </component>
 </project>

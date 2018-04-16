@@ -6,30 +6,46 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ecsystem-cart-web" />
         <module name="ecsystem-common" />
         <module name="ecsystem-content-interface" />
         <module name="ecsystem-content-service" />
+        <module name="ecsystem-item-web" />
         <module name="ecsystem-manager-dao" />
         <module name="ecsystem-manager-interface" />
         <module name="ecsystem-manager-pojo" />
         <module name="ecsystem-manager-service" />
         <module name="ecsystem-manager-web" />
+        <module name="ecsystem-order-interface" />
+        <module name="ecsystem-order-service" />
+        <module name="ecsystem-order-web" />
+        <module name="ecsystem-portal-web" />
         <module name="ecsystem-search-interface" />
         <module name="ecsystem-search-service" />
+        <module name="ecsystem-sso-interface" />
+        <module name="ecsystem-sso-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ecsystem" target="1.8" />
+      <module name="ecsystem-cart-web" target="1.8" />
       <module name="ecsystem-common" target="1.8" />
       <module name="ecsystem-content-interface" target="1.8" />
       <module name="ecsystem-content-service" target="1.8" />
+      <module name="ecsystem-item-web" target="1.8" />
       <module name="ecsystem-manager-dao" target="1.8" />
       <module name="ecsystem-manager-interface" target="1.8" />
       <module name="ecsystem-manager-pojo" target="1.8" />
       <module name="ecsystem-manager-service" target="1.8" />
       <module name="ecsystem-manager-web" target="1.8" />
+      <module name="ecsystem-order-interface" target="1.8" />
+      <module name="ecsystem-order-service" target="1.8" />
+      <module name="ecsystem-order-web" target="1.8" />
+      <module name="ecsystem-portal-web" target="1.8" />
       <module name="ecsystem-search-interface" target="1.8" />
       <module name="ecsystem-search-service" target="1.8" />
+      <module name="ecsystem-sso-interface" target="1.8" />
+      <module name="ecsystem-sso-service" target="1.8" />
       <module name="ecsystemcommon" target="1.8" />
       <module name="sdfasdf" target="1.8" />
     </bytecodeTargetLevel>

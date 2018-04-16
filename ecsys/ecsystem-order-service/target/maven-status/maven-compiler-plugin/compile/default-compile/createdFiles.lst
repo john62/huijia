@@ -1,0 +1,4 @@
+com\huijia\order\service\impl\OrderServiceImpl.class
+com\huijia\order\jedis\JedisClient.class
+com\huijia\order\jedis\JedisClientCluster.class
+com\huijia\order\jedis\JedisClientPool.class

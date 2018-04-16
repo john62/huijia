@@ -1,0 +1,4 @@
+com\huijia\item\controller\HtmlGenController.class
+com\huijia\item\controller\ItemController.class
+com\huijia\item\pojo\Item.class
+com\huijia\item\listener\ItemAddMesssageListener.class

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ecsystem-portal-web:war">
+    <output-path>$PROJECT_DIR$/ecsystem-portal-web/target</output-path>
+    <root id="archive" name="ecsystem-portal-web.war">
+      <element id="artifact" artifact-name="ecsystem-portal-web:war exploded" />
+    </root>
+  </artifact>
+</component>

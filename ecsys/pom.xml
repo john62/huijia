@@ -20,6 +20,15 @@
     <module>ecsystem-search-interface</module>
     <module>ecsystem-search-service</module>
 
+    <module>ecsystem-cart-web</module>
+    <module>ecsystem-item-web</module>
+      <module>ecsystem-order-interface</module>
+    <module>ecsystem-order-service</module>
+      <module>ecsystem-order-web</module>
+    <module>ecsystem-sso-interface</module>
+    <module>ecsystem-sso-service</module>
+      <module>ecsystem-portal-web</module>
+
   </modules>
   <packaging>pom</packaging>
   <name>ecsystem</name>

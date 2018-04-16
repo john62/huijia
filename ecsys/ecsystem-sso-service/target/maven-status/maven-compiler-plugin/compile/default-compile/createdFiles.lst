@@ -1,0 +1,4 @@
+com\huijia\sso\service\impl\UserServiceImpl.class
+com\huijia\sso\jedis\JedisClientPool.class
+com\huijia\sso\jedis\JedisClientCluster.class
+com\huijia\sso\jedis\JedisClient.class
