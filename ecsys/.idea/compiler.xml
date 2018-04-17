@@ -24,6 +24,7 @@
         <module name="ecsystem-search-service" />
         <module name="ecsystem-sso-interface" />
         <module name="ecsystem-sso-service" />
+        <module name="ecsystem-sso-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -46,6 +47,7 @@
       <module name="ecsystem-search-service" target="1.8" />
       <module name="ecsystem-sso-interface" target="1.8" />
       <module name="ecsystem-sso-service" target="1.8" />
+      <module name="ecsystem-sso-web" target="1.8" />
       <module name="ecsystemcommon" target="1.8" />
       <module name="sdfasdf" target="1.8" />
     </bytecodeTargetLevel>

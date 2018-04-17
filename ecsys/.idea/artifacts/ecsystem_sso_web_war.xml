@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ecsystem-sso-web:war">
+    <output-path>$PROJECT_DIR$/ecsystem-sso-web/target</output-path>
+    <root id="archive" name="ecsystem-sso-web.war">
+      <element id="artifact" artifact-name="ecsystem-sso-web:war exploded" />
+    </root>
+  </artifact>
+</component>

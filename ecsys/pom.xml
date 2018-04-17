@@ -28,6 +28,7 @@
     <module>ecsystem-sso-interface</module>
     <module>ecsystem-sso-service</module>
       <module>ecsystem-portal-web</module>
+    <module>ecsystem-sso-web</module>
 
   </modules>
   <packaging>pom</packaging>

@@ -20,5 +20,6 @@
     <file url="file://$PROJECT_DIR$/ecsystem-search-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ecsystem-sso-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ecsystem-sso-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecsystem-sso-web" charset="UTF-8" />
   </component>
 </project>

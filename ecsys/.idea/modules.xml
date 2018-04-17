@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/ecsystem-search-service/ecsystem-search-service.iml" filepath="$PROJECT_DIR$/ecsystem-search-service/ecsystem-search-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-sso-interface/ecsystem-sso-interface.iml" filepath="$PROJECT_DIR$/ecsystem-sso-interface/ecsystem-sso-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecsystem-sso-service/ecsystem-sso-service.iml" filepath="$PROJECT_DIR$/ecsystem-sso-service/ecsystem-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecsystem-sso-web/ecsystem-sso-web.iml" filepath="$PROJECT_DIR$/ecsystem-sso-web/ecsystem-sso-web.iml" />
     </modules>
   </component>
 </project>
